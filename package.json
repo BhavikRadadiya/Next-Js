@@ -1,0 +1,19 @@
+{
+  "name": "next-js",
+  "version": "1.0.0",
+  "description": "First Next Js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhavikRadadiya/Next-Js.git"
+  },
+  "author": "Bhavik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhavikRadadiya/Next-Js/issues"
+  },
+  "homepage": "https://github.com/BhavikRadadiya/Next-Js#readme"
+}
